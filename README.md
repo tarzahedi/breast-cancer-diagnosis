@@ -4,11 +4,11 @@ This project uses machine learning to predict whether a breast tumor is malignan
 
 ## Features
 
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA) and feature correlation  
-- Multiple classifiers: Logistic Regression, SVM, KNN, Random Forest, Gradient Boosting  
-- Model evaluation with accuracy, precision, recall, F1 score, and **ROC AUC** (due to class imbalance)  
-- Clear visualization and model comparison  
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA) and feature correlation
+- Multiple classifiers: Logistic Regression, SVM, KNN, Random Forest, Gradient Boosting
+- Model evaluation with accuracy, precision, recall, F1 score, and **ROC AUC** (due to class imbalance)
+- Clear visualization and model comparison
 
 ## Dataset
 
@@ -16,12 +16,15 @@ The dataset used in this project is the **Breast Cancer Wisconsin (Diagnostic) D
 
 ## How to Run
 
-1. Clone this repository.  
-2. Place `data.csv` (Breast Cancer Wisconsin Diagnostic dataset) in the project root folder.  
+1. Clone this repository.
+2. Place `data.csv` (Breast Cancer Wisconsin Diagnostic dataset) in the project root folder.
 3. Open and run the Jupyter Notebook (`breast_cancer_classification.ipynb`).
 
-## Libraries
+## Libraries and Technologies
 
-- Python 3.x  
-- pandas, numpy, matplotlib, seaborn  
-- scikit-learn  
+- Python 3.11
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
